@@ -1,0 +1,1 @@
+Nesta pasta contem todo o conteudo aprendido durante o curso Harvard CS50’s Web Programming with Python and JavaScript, link : https://www.youtube.com/watch?v=vzGllw18DkA&ab_channel=freeCodeCamp.org
